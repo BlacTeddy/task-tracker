@@ -1,5 +1,5 @@
 # task-tracker project
 Kotlin Task Tracker
-- [x] CLI with CSV 
-- [] Backend with API 
-- [] UI with JS 
+- [x] CLI with CSV <br>
+- [] Backend with API <br>
+- [] UI with JS <br>
